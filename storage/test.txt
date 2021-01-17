@@ -1,0 +1,7 @@
+PLACE 6,6,NORTH
+move
+move
+place 3,1,west
+move
+move
+report
